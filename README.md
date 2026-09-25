@@ -6,7 +6,7 @@
 [![Documentation Status](https://readthedocs.org/projects/amulet-map-editor/badge)](https://amulet-map-editor.readthedocs.io)
 
 A Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
-
+ 
 ![cover](resource/img/cover.jpg)
 
 ## Installing
